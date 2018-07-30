@@ -6,10 +6,9 @@ body{
 header{
    text-align: left;
    width: 100%;
-   background-color: White;+
-   opacity: 0.5;
+   background-color: White;
    height: auto;
-   font-family: 'Lato bold', sans-serif;
+   font-family: 'Lato', sans-serif;
    text-align: center;
    font-size: 0.9em;
    position: relative;
