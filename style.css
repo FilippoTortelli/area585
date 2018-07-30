@@ -79,3 +79,21 @@ h2{
 .info p{
   font-size: 0.8em;
 }
+
+.card{
+  border-style: none;
+  border-radius: 0px;
+}
+
+.card-text{
+margin-bottom: 0px;
+}
+
+.card-body{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.card-title{
+  margin-bottom: 0.5rem;
+}
